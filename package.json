@@ -1,6 +1,6 @@
 {
   "name": "shad-react-widgets",
-  "private": true,
+  "private": false,
   "engines": {
     "yarn": "^1.0.0",
     "node": ">=6.0.0"
